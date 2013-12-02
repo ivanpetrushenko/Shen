@@ -10,6 +10,7 @@
 *.txt
 *.sdf
 *.ipch
+*.Debug
 
 # Compiled Dynamic libraries
 *.so
